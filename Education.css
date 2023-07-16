@@ -1,0 +1,13 @@
+.div {
+    height: 500px;
+    background: url(Night.jpg);
+  }
+  .int {
+    color: blanchedalmond;
+
+    font-style: italic;
+    font-size: 25px;
+  }
+  .h {
+    color: yellow;
+  }

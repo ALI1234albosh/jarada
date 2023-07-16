@@ -1,0 +1,19 @@
+.div{
+    height: 550px;
+    background: url(Night.jpg);
+}
+.h{
+    font-size: 34px;
+     color: yellow;
+}
+
+.p{
+    color: blanchedalmond;
+}
+.a{
+    color: #3fbad5;
+    
+}
+ .a:hover {
+    color: #f3eeee;
+    transition: 1.5s;}
